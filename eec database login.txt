@@ -1,0 +1,4 @@
+host : sql146.main-hosting.eu
+user : u884850864_eec
+pass : eec003
+database : u884850864_eec
